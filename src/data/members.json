@@ -2,16 +2,21 @@
     {
         "title": "fen",
         "url": "http://fen.today",
-        "feed": null
+        "feed": "http://fen.today/rss"
     },
     {
         "title": "Zhanchi",
         "url": "https://zhanchi.today/",
-        "feed": null
+        "feed": "https://zhanchi.today/rss"
     },
     {
         "title": "jess",
         "url": "https://jess.rodeo/",
-        "feed": null
+        "feed": "https://jess.rodeo/rss"
+    },
+    {
+        "title": "ry",
+        "url": "http://rystar.today/",
+        "feed": "http://rystar.today/rss"
     }
 ]
