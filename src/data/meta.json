@@ -3,7 +3,7 @@
     "description": "Friends with microblogs.",
     "image": "bee.png",
     "url": "https://hivemind-ring.netlify.com",
-    "repo": "https://github.com/sublimemarch/webring",
+    "repo": "https://github.com/sublimemarch/webring-hivemind",
     "admins": [
         {
             "name": "Fen Slattery",
