@@ -18,5 +18,10 @@
         "title": "ry",
         "url": "http://rystar.today/",
         "feed": "http://rystar.today/rss"
+    },
+    {
+        "title": "Isa",
+        "url": "https://isabella.works/",
+        "feed": "https://isabella.works/rss"
     }
 ]
